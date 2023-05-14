@@ -1,4 +1,4 @@
-#Valid Parentheses
+<h3>#Valid Parentheses<h3>
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
